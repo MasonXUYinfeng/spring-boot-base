@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="node14-boot-file" />
+        <module name="node16-boot-actuator" />
+        <module name="node11-boot-aop" />
+        <module name="node06-boot-jdbc" />
+        <module name="node17-boot-package" />
+        <module name="node10-boot-mybatis" />
+        <module name="node15-boot-mongodb" />
+        <module name="node09-boot-jpa" />
+        <module name="node13-boot-cache" />
+        <module name="node05-boot-intercept" />
+        <module name="node04-boot-task" />
+        <module name="node07-boot-druid" />
+        <module name="node12-boot-transaction" />
+        <module name="node03-boot-exception" />
+        <module name="node08-boot-redis" />
+        <module name="node01-boot-hello" />
+        <module name="node02-boot-log4j" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="node01-boot-hello" target="1.5" />
+      <module name="node02-boot-log4j" target="1.5" />
+      <module name="node03-boot-exception" target="1.5" />
+      <module name="node04-boot-task" target="1.5" />
+      <module name="node05-boot-intercept" target="1.5" />
+      <module name="node06-boot-jdbc" target="1.5" />
+      <module name="node07-boot-druid" target="1.5" />
+      <module name="node08-boot-redis" target="1.5" />
+      <module name="node09-boot-jpa" target="1.5" />
+      <module name="node10-boot-mybatis" target="1.5" />
+      <module name="node11-boot-aop" target="1.5" />
+      <module name="node12-boot-transaction" target="1.5" />
+      <module name="node13-boot-cache" target="1.5" />
+      <module name="node14-boot-file" target="1.5" />
+      <module name="node15-boot-mongodb" target="1.5" />
+      <module name="node16-boot-actuator" target="1.5" />
+      <module name="node17-boot-package" target="1.5" />
+      <module name="spring-boot-base" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
